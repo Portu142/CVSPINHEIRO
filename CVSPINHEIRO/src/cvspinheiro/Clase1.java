@@ -15,7 +15,7 @@ public class Clase1 {
      */
     public static void main(String[] args) {
         System.out.println("Ricardo Daniel Pinheiro Carvalho");
-        System.out.println("17/02/2023");
+        System.out.println("17/02/2023" + "\t" + "9:53");
     }
     
 }
